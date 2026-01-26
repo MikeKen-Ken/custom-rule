@@ -6,8 +6,4 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,speech.platform.bing.com
-  - PROCESS-NAME,com.jingdong.app.mall
-  - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.xiaomi.smarthome
-  - PROCESS-NAME,com.bytedance.android.doubaoime
-
